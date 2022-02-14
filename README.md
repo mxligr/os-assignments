@@ -8,5 +8,6 @@ Three assignments that I implemented for the Operating Systems course // 2nd yea
 - Section Filtering: <i> ./a1 findall path=&lt;dir_path&gt; </i><br>
 
 <h4>Assignment 2 - Process and Threads</h4>
-- solution generates a specific process hierarchy 
+- solution generates a specific process hierarchy: ![alt text](https://github.com/mxligr/os-assignments/blob/main/process-hierarchy.jpeg)
+
 
