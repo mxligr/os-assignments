@@ -7,3 +7,6 @@ Three assignments that I implemented for the Operating Systems course // 2nd yea
 - Working With Sections: <i> ./a1 extract path=&ly;file_path&gt; section=&lt;sect_nr&gt; line=&lt;line_nr&gt; </i><br>
 - Section Filtering: <i> ./a1 findall path=&lt;dir_path&gt; </i><br>
 
+<h4>Assignment 2 - Process and Threads</h4>
+- solution generates a specific process hierarchy 
+
